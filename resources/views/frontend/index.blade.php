@@ -114,7 +114,7 @@
                             </div>
                             <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                 Similique accusantium ipsam.</p>
-                            <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In
+                            <p><a href="{{url('/singleCours')}}" class="btn btn-primary rounded-0 px-4">Enroll In
                                     This Course</a></p>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                             </div>
                             <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                 Similique accusantium ipsam.</p>
-                            <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In
+                            <p><a href="{{url('/singleCours')}}" class="btn btn-primary rounded-0 px-4">Enroll In
                                     This Course</a></p>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                             </div>
                             <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                 Similique accusantium ipsam.</p>
-                            <p><a href="courses-single.html" class="btn btn-primary rounded-0 px-4">Enroll In
+                            <p><a href="{{url('/singleCours')}}" class="btn btn-primary rounded-0 px-4">Enroll In
                                     This Course</a></p>
                         </div>
                     </div>
@@ -192,7 +192,7 @@
                             </div>
                             <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                 Similique accusantium ipsam.</p>
-                            <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In
+                            <p><a href="{{url('/singleCours')}}" class="btn btn-primary rounded-0 px-4">Enroll In
                                     This Course</a></p>
                         </div>
                     </div>
@@ -218,7 +218,7 @@
                             </div>
                             <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                 Similique accusantium ipsam.</p>
-                            <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In
+                            <p><a href="{{url('/singleCours')}}" class="btn btn-primary rounded-0 px-4">Enroll In
                                     This Course</a></p>
                         </div>
                     </div>
@@ -244,7 +244,7 @@
                             </div>
                             <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                 Similique accusantium ipsam.</p>
-                            <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In
+                            <p><a href="{{url('/singleCours')}}" class="btn btn-primary rounded-0 px-4">Enroll In
                                     This Course</a></p>
                         </div>
                     </div>

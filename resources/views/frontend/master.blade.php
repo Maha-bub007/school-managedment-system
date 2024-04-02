@@ -10,8 +10,10 @@
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
     @include('frontend.include.hader');
 
-    @yield('contant');
-
+    <div class="site-wrap">
+        @yield('contant');
+    </div>
+    
     @include('frontend.include.footer');
 
     @include('frontend.include.script');
